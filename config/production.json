@@ -1,0 +1,6 @@
+{
+    "MongoURI": "mongodb+srv://arjun211:arjun211@free-cluster.djapc.mongodb.net/Social-Dev-Connector-Development?retryWrites=true&w=majority",
+    "jwtsecret": "vJ2_iG3*rF9~aX0~wP0}mE1*wJ6<hD1)",
+    "githubclientid": "03c3cb0002fcc181b25e",
+    "githubclientsecret": "4bcca53186e5953b85c26e461b2c8c1e8543c79a"
+}
